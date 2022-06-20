@@ -3,15 +3,13 @@
 ### Approaches
 
 Approaches are a trait that describes how you accomplish a task. They don’t offer insight into characters skills or training, instead representing ways in which characters are more likely to approach a situation.  
-There are six approaches:
+Approaches used in the Adept are:
 - **Flair**: An action that draws attention to you; it’s full of style and panache. 
 - **Focus**: Time-consuming action in which close attention is paid to details so the task is properly executed on the first attempt.
 - **Force**: A display of brute strength rather than subtlety.
 - **Guile**: An effort focusing on misdirection, stealth, or deceit.
 - **Haste**: A dexterous movement with alacrity.
 - **Wits**: Quick thinking, solving complex problems, or accounting for numerous variables at once.
-
-#### Rating Approaches
 
 Approaches usually have a rating from d6 to d10, although there are exceptions. Everyone has a rating in all of them.  
 Approaches scale as follows:
@@ -21,26 +19,33 @@ Approaches scale as follows:
 - **d10: Remarkable**. Greatly above average.
 - **d12: Incredible**. Peak levels of ability.
 
-### Moves
+### Values
 
-Moves are a trait that describes what course of action you take approaching a task. Moves represent more general experience of a character and their preferred way of problem solving.  
-There are six moves:
-- **Assess**: Planning and gathering information.
-- **Defend**: Keeping someone or something from harm.
-- **Engage**: Confronting a threat or situation directly.
-- **Influence**: Exerting your will on others.
-- **Support**: Healing or otherwise offering aid.
-- **Unleash**: Throwing caution to the wind.
+Values represent how much specific things matter to the PC and, in turn, how much they influence the outcome of tests and contests. They embody a character's motivatios and morals. A high rating in a value doesn’t mean your character likes or stands out as a paragon of that value, but rather that they are more invested and concerned about that value than if they had it at a lower die rating. A d10 in Truth could still mean the character is a liar, but the concept of truth and falsehood is one of the things that drives them the most to succeed.  
+Values used in the Adept are:
+- **Devotion**: Duty, faith and friendship.
+- **Glory**: Legacy, fame and fortune.
+- **Justice**: Fairness, virtue and reward.
+- **Liberty**: Freedom and autonomy.
+- **Mastery**: Control, achievement, and skill.
+- **Truth**: Fidelity, certainty, and authenticity.
 
-#### Rating Moves
+Values range from d4 to d12 in rating, although extremes are rare. Everyone has a rating in all of them. Whenewer a value would change - stepping up or down - another should change in the opposite direction. Thus, the total number of die steps in the dice assigned to values should always stay the same.  
+Each value has a statement atteched to it, a statement is a sentence or phrase that clarifies or refines the value that it’s attached to.
+The die rating of a value measures how much the value matters to the character, as follows:
+- **d4** I’m really not into this.
+- **d6** Sure, this matters. But so do a lot of things.
+- **d8** This is definitely on my radar.
+- **d10** I’m all over this thing.
+- **d12** This is my heart and soul.
 
-Moves usually have a rating from d6 to d10, although there are exceptions. Everyone has a rating in all of them.  
-Moves scale as follows:
-- **d4: Poor**. Notably deficient in this area.
-- **d6: Typical**. An average degree of ability.
-- **d8: Excellent**. Above-average performance.
-- **d10: Remarkable**. Greatly above average.
-- **d12: Incredible**. Peak levels of ability.
+#### Questioning Statements
+
+Whenewer a character acts contrary to their statement in an action they tripple their value rating for one roll.  
+Once the statement is questioned the rating of a value it's attached to steps down.
+At the end of the session, a player who questioned a statement must either:
+- Rewrite the statement to reflect a new belief or truth and return the die to its original rating, or
+- Keep the statement the same and the die rating remains stepped down. This may mean stepping up another trait to balance it out.
 
 ### SFX
 
