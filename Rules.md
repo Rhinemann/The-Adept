@@ -1,6 +1,7 @@
 # The Rules
 
 ## Traits
+
 ### Approaches
 
 Approaches are a trait that describes how you accomplish a task. They don’t offer insight into characters skills or training, instead representing ways in which characters are more likely to approach a situation.  
@@ -44,25 +45,40 @@ Moves scale as follows:
 - **d12: Incredible**. Peak levels of ability.
 
 ### SFX
+
 In The Adept SFX can be applied to your Distinctions, Magic as a trait, Methods of Magic and Status.
-Magic
-Using aether
-When you are casting a spell you are assumed to use mana which inflicts Mana stress on hitches. But you may willingly opt to channel another type of aether to fuel your spells from these options: psi, astral body, emosequence and prana. Because you are untrained in using these forms of aether you suffer stress every time you use these, Body stress for prana, Soul stress for astral body and Mind stress for psi and emosequence. As you advance you may acquire access to other forms of aether or become more proficient in channelling some of the aforementioned ones suffering corresponding stress only on hitches.
+
+### Magic
+
+#### Using aether
+
+When you are casting a spell you are assumed to use mana which inflicts Mana stress on hitches. But you may willingly opt to channel another type of aether to fuel your spells from these options: psi, astral body, emosequence and prana. Because you are untrained in using these forms of aether you suffer stress every time you use these, Body stress for prana, Soul stress for astral body and Mind stress for psi and emosequence. As you advance you may acquire access to other forms of aether or become more proficient in channelling some of the aforementioned ones suffering corresponding stress only on hitches.  
 Also you can use Magic through another type of aether even when it is shut down by Out of Mana Limit.
-Out of Mana
-Your Magic trait has a following Limit:
-Limit: Out of Mana. When Drained stress would step past d12, set it to d12 instead and shut down your Magic, step down Drained to recover. Alternatively you can declare that you are out of mana, shut down your Magic for a scene and gain a PP.
-Methods of Magic
-In The Adept magic is divided into five Methods that function like a Power Set with at least one Limit and SFX pertaining to respective Method’s strengths and weaknesses. You can include one die from one of the methods in your rolls. The five methods are as follows:
-Enchantment
-Enchantment is based on imbuing items and beings with magical properties. Enchanting is a long process which produces items or beings that either have their own magical properties or help to channel the caster’s own magic. It also often requires special instruments and reagents. Enchantments can last very long, even indefinitely.
-Limit: Time Intensive. All enchantments take time, thus to create an asset using this method you must spend one scene making it.
-SFX: Lasting Enchantment. When you spend at least a couple of days to create an asset using this Method it lasts for the entire session.
-Magical Craftsmanship
-Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemickal grenades to plant parts with magical properties. Creating each consumable  can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and prowess.
-Limit: Prepared Environment. You can use this Method when you have access to an appropriate workshop, whether an already existing or one created with tests.
-SFX: Non Fungible Asset. When you create an asset that can only be used once, step up your effect die.
-Ritual Magic
+
+#### Out of Mana
+
+Your Magic trait has a following SFX:
+> **Out of Mana**; When Drained stress would step past d12, set it to d12 instead and shut down your Magic, step down Drained to recover. Alternatively you can declare that you are out of mana, shut down your Magic for a scene and gain a PP.
+
+#### Methods of Magic
+
+In The Adept magic is divided into five Methods that function like a Power Set with at least one Limit and SFX pertaining to respective Method’s strengths and weaknesses. You can include one die from one of the methods in your rolls.  
+The five methods are as follows:
+
+##### Enchantment
+
+Enchantment is based on imbuing items and beings with magical properties. Enchanting is a long process which produces items or beings that either have their own magical properties or help to channel the caster’s own magic. It also often requires special instruments and reagents. Enchantments can last very long, even indefinitely.  
+**Time Intensive**: All enchantments take time, thus to create an asset using this method you must spend one scene making it.  
+**Lasting Enchantment**: When you spend at least a couple of days to create an asset using this Method it lasts for the entire session.
+
+##### Magical Craftsmanship
+
+Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemickal grenades to plant parts with magical properties. Creating each consumable  can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and prowess.  
+**Prepared Environment**: You can use this Method when you have access to an appropriate workshop, whether an already existing or one created with tests.  
+**Non Fungible Asset**: When you create an asset that can only be used once, step up your effect die.
+
+##### Ritual Magic
+
 Ritual Magic is based on performing lengthy magical ceremonies. Each ritual is essentially a more sophisticated version of a spell, combining multiple mediums and involving the possibility of consumable reagents usage to boost the magical effect. Rituals are much more cumbersome and lengthy to use which is their main weakness. But Rituals can also produce long-term and even permanent effects unlike spells which are usually instant or not long lasting.
 Limit: Preparation. Using this Method requires lengthy preparation and cannot be performed in the middle of combat.
 SFX: Reagents. Double all assets consumed as reagents with performing Ritual Magic.
