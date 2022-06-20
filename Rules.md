@@ -79,38 +79,46 @@ Magical Craftsmanship is based on creation and usage of different magical consum
 
 ##### Ritual Magic
 
-Ritual Magic is based on performing lengthy magical ceremonies. Each ritual is essentially a more sophisticated version of a spell, combining multiple mediums and involving the possibility of consumable reagents usage to boost the magical effect. Rituals are much more cumbersome and lengthy to use which is their main weakness. But Rituals can also produce long-term and even permanent effects unlike spells which are usually instant or not long lasting.
-Limit: Preparation. Using this Method requires lengthy preparation and cannot be performed in the middle of combat.
-SFX: Reagents. Double all assets consumed as reagents with performing Ritual Magic.
-Spellcasting
-Spellcasting is based on using special techniques called spells. Each spell is essentially a description of a desired effect encoded in its medium, such as spoken words, gestures, inscribed symbols and so on. The main merit of Spellcasting is the sheer versatility of the spells possible, because any mage can cast any spell, provided he knows it. Main drawbacks of Spellcasting are the fact that each spell has a very narrow usage and, because of the absolute length and variety of the spells most mages can’t memorise all of them they have to retain a part of their spells in their mind or to spend a couple of minutes to cast the spell from their references.
-Limit: Exact Spells. When you declare that you are casting a memorised spell for effects it was not designed for, step down the rating of the Power you are using for one roll and earn a PP.
-SFX: Memorised Spells. Spend a PP to reveal that you had previously memorised a spell and gain it as a d6 asset for the session.
-Will Magic
-Will Magic is based on channelling mana through the power of mind. Magic can be used via imagination, intellect, willpower, strong emotions, or all of the above. Will Magic is very flexible in its applications, because it is not restricted by any formulas, but very narrow in variety, as controlling magic by force of mind is more difficult than with the usage of niĝdimdima or prepared equipment. Will magic is also the easiest to lose control of because of the aforementioned reasons.
-Limit: Unstable Spells. Whenever you fail a test involving application of this Method your effect is still enacted but in an uncontrolled fashion and you add your largest die into the Doom Pool.
-SFX: Crude Magic. Step up or double your power whenever the effect of your magic is not precise or sophisticated. Add your effect die to the Doom Pool.
-Effects of Magic
-Each of the methods has following effects as Powers in set, each power can be bought separately for each Method of Magic.
+Ritual Magic is based on performing lengthy magical ceremonies. Each ritual is essentially a more sophisticated version of a spell, combining multiple mediums and involving the possibility of consumable reagents usage to boost the magical effect. Rituals are much more cumbersome and lengthy to use which is their main weakness. But Rituals can also produce long-term and even permanent effects unlike spells which are usually instant or not long lasting.  
+**Preparation**: Using this Method requires lengthy preparation and cannot be performed in the middle of combat.  
+**Reagents**: Double all assets consumed as reagents with performing Ritual Magic.
+
+##### Spellcasting
+
+Spellcasting is based on using special techniques called spells. Each spell is essentially a description of a desired effect encoded in its medium, such as spoken words, gestures, inscribed symbols and so on. The main merit of Spellcasting is the sheer versatility of the spells possible, because any mage can cast any spell, provided he knows it. Main drawbacks of Spellcasting are the fact that each spell has a very narrow usage and, because of the absolute length and variety of the spells most mages can’t memorise all of them they have to retain a part of their spells in their mind or to spend a couple of minutes to cast the spell from their references.  
+**Exact Spells**: When you declare that you are casting a memorised spell for effects it was not designed for, step down the rating of the Power you are using for one roll and earn a PP.  
+**Memorised Spells**: Spend a PP to reveal that you had previously memorised a spell and gain it as a d6 asset for the session.
+
+##### Will Magic
+
+Will Magic is based on channelling mana through the power of mind. Magic can be used via imagination, intellect, willpower, strong emotions, or all of the above. Will Magic is very flexible in its applications, because it is not restricted by any formulas, but very narrow in variety, as controlling magic by force of mind is more difficult than with the usage of niĝdimdima or prepared equipment. Will magic is also the easiest to lose control of because of the aforementioned reasons.  
+**Unstable Spells**: Whenever you fail a test involving application of this Method your effect is still enacted but in an uncontrolled fashion and you add your largest die into the Doom Pool.  
+**Crude Magic**: Step up or double your power whenever the effect of your magic is not precise or sophisticated. Add your effect die to the Doom Pool.
+
+#### Effects of Magic
+
+Each of the methods has following effects as Powers in set, each power can be bought separately for each Method of Magic.  
 The Effects are as follows:
-Animation: Magical Effects related to animating inert matter such as corpses, volumes of homogeneous matter or manufactured statues and mechanisms.
-Chaos Manipulation: Magical Effects related to influencing the probabilities, bestoving good and bad luck.
-Elemental Magic: Magical Effects related to creating and manipulating a given element. Choose one element when purchasing this Effect (Pyromancy, Hydromancy, etc.), this Effect can be bought multiple times choosing a different element each time.
-Extraordinary Senses: Magical Effects related to enhancing your senses and gaining new ones.
-Flesh Manipulation: Magical Effects related to transforming physical bodies and healing.
-Hyperinteractions: Magical Effects related to travelling between and interacting with the Seven Spheres.
-Illusion: Magical Effects related to deceiving senses, magical disguise, phantasms.
-Materialisation: Magical Effects related to transforming aether into matter essentially creating it from nothing.
-Matter Transformation: Magical Effects related to transforming matter both in form and composition.
-Mental Manipulation: Magical Effects related to manipulating the minds emotions and instincts and programing mental constructs.
-Metamagic: Magical Effects related to absorbing reforming all sorts of aetheric forces not bound to matter, such as antimagic or tampering with spells already cast.
-Portals & Teleportation: Magical Effects related to creating portals or teleporting between different points in space either in one reality or between different ones.
-Soul Manipulation: Magical Effects related to manipulation of soul composition and functions.
-Space Manipulation: Magical Effects related to warping spatial geometry and scaling as well as creating unusual spatial phenomena.
-Summoning: Magical Effects related to summoning and banishing extraplanar beings such as demons, celestials, all kinds of spirits and even gods.
-Telekinesis & Levitation: Magical Effects related to moving objects and controlling kinetic forces.
-Time Manipulation: Magical Effects related to accelerating or decelerating time and warping its flow.
-Status
+- **Animation**: Magical Effects related to animating inert matter such as corpses, volumes of homogeneous matter or manufactured statues and mechanisms.
+- **Chaos Manipulation**: Magical Effects related to influencing the probabilities, bestoving good and bad luck.
+- **Elemental Magic**: Magical Effects related to creating and manipulating a given element. Choose one element when purchasing this Effect (Pyromancy, Hydromancy, etc.), this Effect can be bought multiple times choosing a different element each time.
+- **Extraordinary Senses**: Magical Effects related to enhancing your senses and gaining new ones.
+- **Flesh Manipulation**: Magical Effects related to transforming physical bodies and healing.
+- **Hyperinteractions**: Magical Effects related to travelling between and interacting with the Seven Spheres.
+- **Illusion**: Magical Effects related to deceiving senses, magical disguise, phantasms.
+- **Materialisation**: Magical Effects related to transforming aether into matter essentially creating it from nothing.
+- **Matter Transformation**: Magical Effects related to transforming matter both in form and composition.
+- **Mental Manipulation**: Magical Effects related to manipulating the minds emotions and instincts and programing mental constructs.
+- **Metamagic**: Magical Effects related to absorbing reforming all sorts of aetheric forces not bound to matter, such as antimagic or tampering with spells already cast.
+- **Portals & Teleportation**: Magical Effects related to creating portals or teleporting between different points in space either in one reality or between different ones.
+- **Soul Manipulation**: Magical Effects related to manipulation of soul composition and functions.
+- **Space Manipulation**: Magical Effects related to warping spatial geometry and scaling as well as creating unusual spatial phenomena.
+- **Summoning**: Magical Effects related to summoning and banishing extraplanar beings such as demons, celestials, all kinds of spirits and even gods.
+- **Telekinesis & Levitation**: Magical Effects related to moving objects and controlling kinetic forces.
+- **Time Manipulation**: Magical Effects related to accelerating or decelerating time and warping its flow.
+
+### Status
+
 All mages of the Tower are a part of hierarchy, ruled by the council of archmages. Their status determines their influence on the Tower’s and Empires politics as well as approximately represents their magical power.
 In The Adept your High Concept Distinction is rated from d6 to d12 and it represents your stance in Tower’s hierarchy.
 When you are using magic, no matter which Distinction you are using, GM may decide that you are using magic outside of your league, compare your High Concept to what the GM has set as spell’s power, for each step above your High Concept you must replace the biggest die in your pool with d4.
