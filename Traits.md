@@ -151,3 +151,7 @@ Whenever a player or the GM is rolling against a character that has a relevant c
 #### Complications As Consequence
 
 Outside of hitches, complications can arise as a result of a lost contest or failed test. In either situation, the GM can decide that a player must step up an existing complication by one if the existing complication is equal to or larger than the die rating of the new complication.
+
+### Dropping Signature Assets
+
+At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. If you do this, at the start of the next scene you can gain a new Signature Asset of the same size or multiple Signature Assets with ratings stepped down for each after the first.
