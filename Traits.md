@@ -47,6 +47,8 @@ At the end of the session, a player who questioned a statement must either:
 - Rewrite the statement to reflect a new belief or truth and return the die to its original rating, or
 - Keep the statement the same and the die rating remains stepped down. This may mean stepping up another trait to balance it out.
 
+If a d4 trait is questioned, it is shut down until the end of the session. Its trait statement must be rewritten to return it to a d4 die rating.
+
 ### SFX
 
 In The Adept SFX can be applied to your Distinctions, Magic as a trait, Methods of Magic and Status.
