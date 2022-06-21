@@ -60,10 +60,11 @@ In The Adept SFX can be applied to your Distinctions, Magic as a trait, Methods 
 When you are casting a spell you are assumed to use mana which inflicts Mana stress on hitches. But you may willingly opt to channel another type of aether to fuel your spells from these options: psi, astral body, emosequence and prana. Because you are untrained in using these forms of aether you suffer stress every time you use these, Body stress for prana, Soul stress for astral body and Mind stress for psi and emosequence. As you advance you may acquire access to other forms of aether or become more proficient in channelling some of the aforementioned ones suffering corresponding stress only on hitches.  
 Also you can use Magic through another type of aether even when it is shut down by Out of Mana Limit.
 
-#### Out of Mana
+#### Magic SFX
 
-Your Magic trait has a following SFX:
-> **Out of Mana**; When Drained stress would step past d12, set it to d12 instead and shut down your Magic, step down Drained to recover. Alternatively you can declare that you are out of mana, shut down your Magic for a scene and gain a PP.
+Your Magic trait has following SFX:
+> **Out of Mana**: When Drained stress would step past d12, set it to d12 instead and shut down your Magic, step down Drained to recover. Alternatively you can declare that you are out of mana, shut down your Magic for a scene and gain a PP.  
+> **Flexible Casting**: Spend a PP and step down effect die to use your discipline as another practice.
 
 #### Methods of Magic
 
