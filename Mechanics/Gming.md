@@ -1,5 +1,3 @@
-# The Rules
-
 ### Doom Pool
 
 Doom Pool is used in the same way as written in Cortex Handbook, but as Adept is designed with long term games in mind it is advised that after every major arc the GM should reset or otherwise weaken it to ease the tension and represent the reducing threat.  
