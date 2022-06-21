@@ -122,17 +122,6 @@ The Effects are as follows:
 - **Telekinesis & Levitation**: Magical Effects related to moving objects and controlling kinetic forces.
 - **Time Manipulation**: Magical Effects related to accelerating or decelerating time and warping its flow.
 
-### Status
-
-All mages of the Tower are a part of hierarchy, ruled by the council of archmages. Their status determines their influence on the Tower’s and Empires politics as well as approximately represents their magical power.  
-In The Adept your High Concept Distinction is rated from d6 to d12 and it represents your stance in Tower’s hierarchy.  
-When you are using magic, no matter which Distinction you are using, GM may decide that you are using magic outside of your league, compare your High Concept to what the GM has set as spell’s power, for each step above your High Concept you must replace the biggest die in your pool with d4.  
-- **d4: Student**. A mage in training, they are not considered full members of the Tower yet.
-- **d6: Apprentice**. A novice, but already trained mage, who has just finished their magical studies.
-- **d8: Master**. An experienced mage, who is adept enough to create their own magical technique from scratch.
-- **d10: Magister**. A very powerful mage, who has presented a completely new discovery to the Tower.
-- **d12: Archmage**. An incredibly powerful mage who is a paragon of human magician, this title is elected by the archmage council of the Tower.
-
 ### Hero Dice
 
 Every time you get a heroic success you can store the opposition’s highest rolling die on your character sheet. You can have only one hero die of each size, otherwise they function as stated in the Handbook.
