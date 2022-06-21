@@ -51,7 +51,7 @@ If a d4 trait is questioned, it is shut down until the end of the session. Its t
 
 ### SFX
 
-In The Adept SFX can be applied to your Distinctions, Magic as a trait, Methods of Magic and Status.
+In The Adept SFX can be applied to your Distinctions, Magic as a trait, practice and Status.
 
 ### Magic
 
@@ -66,62 +66,62 @@ Your Magic trait has following SFX:
 > **Out of Mana**: When Drained stress would step past d12, set it to d12 instead and shut down your Magic, step down Drained to recover. Alternatively you can declare that you are out of mana, shut down your Magic for a scene and gain a PP.  
 > **Flexible Casting**: Spend a PP and step down effect die to use your discipline as another practice.
 
-#### Methods of Magic
+#### Practices
 
-In The Adept magic is divided into five Methods that function like a Power Set with at least one Limit and SFX pertaining to respective Method’s strengths and weaknesses. You can include one die from one of the methods in your rolls.  
-The five methods are as follows:
+In the Adept magic is divided into five practices that function like a Power Set with at least one Limit and SFX pertaining to respective practice’s strengths and weaknesses. You can include one die from one of the practices in your rolls.  
+The five practices are as follows:
 
 ##### Enchantment
 
 Enchantment is based on imbuing items and beings with magical properties. Enchanting is a long process which produces items or beings that either have their own magical properties or help to channel the caster’s own magic. It also often requires special instruments and reagents. Enchantments can last very long, even indefinitely.  
-**Time Intensive**: All enchantments take time, thus to create an asset using this method you must spend one scene making it.  
-**Lasting Enchantment**: When you spend at least a couple of days to create an asset using this Method it lasts for the entire session.
+**Time Intensive**: All enchantments take time, thus to create an asset using this practice you must spend one scene making it.  
+**Lasting Enchantment**: When you spend at least a couple of days to create an asset using this practice it lasts for the entire session.
 
 ##### Magical Craftsmanship
 
 Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemickal grenades to plant parts with magical properties. Creating each consumable  can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and prowess.  
-**Prepared Environment**: You can use this Method when you have access to an appropriate workshop, whether an already existing or one created with tests.  
+**Prepared Environment**: You can use this practice when you have access to an appropriate workshop, whether an already existing or one created with tests.  
 **Non Fungible Asset**: When you create an asset that can only be used once, step up your effect die.
 
 ##### Ritual Magic
 
 Ritual Magic is based on performing lengthy magical ceremonies. Each ritual is essentially a more sophisticated version of a spell, combining multiple mediums and involving the possibility of consumable reagents usage to boost the magical effect. Rituals are much more cumbersome and lengthy to use which is their main weakness. But Rituals can also produce long-term and even permanent effects unlike spells which are usually instant or not long lasting.  
-**Preparation**: Using this Method requires lengthy preparation and cannot be performed in the middle of combat.  
+**Preparation**: Using this practice requires lengthy preparation and cannot be performed in the middle of combat.  
 **Reagents**: Double all assets consumed as reagents with performing Ritual Magic.
 
 ##### Spellcasting
 
 Spellcasting is based on using special techniques called spells. Each spell is essentially a description of a desired effect encoded in its medium, such as spoken words, gestures, inscribed symbols and so on. The main merit of Spellcasting is the sheer versatility of the spells possible, because any mage can cast any spell, provided he knows it. Main drawbacks of Spellcasting are the fact that each spell has a very narrow usage and, because of the absolute length and variety of the spells most mages can’t memorise all of them they have to retain a part of their spells in their mind or to spend a couple of minutes to cast the spell from their references.  
-**Exact Spells**: When you declare that you are casting a memorised spell for effects it was not designed for, step down the rating of the Power you are using for one roll and earn a PP.  
+**Exact Spells**: When you declare that you are casting a memorised spell for purposes it was not designed for, step down the discipline you are using for one roll and earn a PP.  
 **Memorised Spells**: Spend a PP to reveal that you had previously memorised a spell and gain it as a d6 asset for the session.
 
 ##### Will Magic
 
 Will Magic is based on channelling mana through the power of mind. Magic can be used via imagination, intellect, willpower, strong emotions, or all of the above. Will Magic is very flexible in its applications, because it is not restricted by any formulas, but very narrow in variety, as controlling magic by force of mind is more difficult than with the usage of niĝdimdima or prepared equipment. Will magic is also the easiest to lose control of because of the aforementioned reasons.  
-**Unstable Spells**: Whenever you fail a test involving application of this Method your effect is still enacted but in an uncontrolled fashion and you add your largest die into the Doom Pool.  
+**Unstable Spells**: Whenever you fail a test involving application of this practice your effect is still enacted but in an uncontrolled fashion and you add your largest die into the Doom Pool.  
 **Crude Magic**: Step up or double your power whenever the effect of your magic is not precise or sophisticated. Add your effect die to the Doom Pool.
 
-#### Effects of Magic
+#### Disciplines
 
-Each of the methods has following effects as Powers in set, each power can be bought separately for each Method of Magic.  
-The Effects are as follows:
-- **Animation**: Magical Effects related to animating inert matter such as corpses, volumes of homogeneous matter or manufactured statues and mechanisms.
-- **Chaos Manipulation**: Magical Effects related to influencing the probabilities, bestoving good and bad luck.
-- **Elemental Magic**: Magical Effects related to creating and manipulating a given element. Choose one element when purchasing this Effect (Pyromancy, Hydromancy, etc.), this Effect can be bought multiple times choosing a different element each time.
-- **Extraordinary Senses**: Magical Effects related to enhancing your senses and gaining new ones.
-- **Flesh Manipulation**: Magical Effects related to transforming physical bodies and healing.
-- **Hyperinteractions**: Magical Effects related to travelling between and interacting with the Seven Spheres.
-- **Illusion**: Magical Effects related to deceiving senses, magical disguise, phantasms.
-- **Materialisation**: Magical Effects related to transforming aether into matter essentially creating it from nothing.
-- **Matter Transformation**: Magical Effects related to transforming matter both in form and composition.
-- **Mental Manipulation**: Magical Effects related to manipulating the minds emotions and instincts and programing mental constructs.
-- **Metamagic**: Magical Effects related to absorbing reforming all sorts of aetheric forces not bound to matter, such as antimagic or tampering with spells already cast.
-- **Portals & Teleportation**: Magical Effects related to creating portals or teleporting between different points in space either in one reality or between different ones.
-- **Soul Manipulation**: Magical Effects related to manipulation of soul composition and functions.
-- **Space Manipulation**: Magical Effects related to warping spatial geometry and scaling as well as creating unusual spatial phenomena.
-- **Summoning**: Magical Effects related to summoning and banishing extraplanar beings such as demons, celestials, all kinds of spirits and even gods.
-- **Telekinesis & Levitation**: Magical Effects related to moving objects and controlling kinetic forces.
-- **Time Manipulation**: Magical Effects related to accelerating or decelerating time and warping its flow.
+Each of the practices has following disciplines as traits, each discipline should be bought separately for each practice.  
+The disciplines are as follows:
+- **Animation**: Discipline related to animating inert matter such as corpses, volumes of homogeneous matter or manufactured statues and mechanisms.
+- **Chaos Manipulation**: Discipline related to influencing the probabilities, bestoving good and bad luck.
+- **Elemental Magic**: Discipline related to creating and manipulating a given element. Choose one element when purchasing this discipline (Pyromancy, Hydromancy, etc.), this discipline can be bought multiple times choosing a different element each time.
+- **Extraordinary Senses**: Discipline related to enhancing your senses and gaining new ones.
+- **Flesh Manipulation**: Discipline related to transforming physical bodies and healing.
+- **Hyperinteractions**: Discipline related to travelling between and interacting with the Seven Spheres.
+- **Illusion**: Discipline related to deceiving senses, magical disguise, phantasms.
+- **Materialisation**: Discipline related to transforming aether into matter essentially creating it from nothing.
+- **Matter Transformation**: Discipline related to transforming matter both in form and composition.
+- **Mental Manipulation**: Discipline related to manipulating the minds emotions and instincts and programing mental constructs.
+- **Metamagic**: Discipline related to absorbing reforming all sorts of aetheric forces not bound to matter, such as antimagic or tampering with spells already cast.
+- **Portals & Teleportation**: Discipline related to creating portals or teleporting between different points in space either in one reality or between different ones.
+- **Soul Manipulation**: Discipline related to manipulation of soul composition and functions.
+- **Space Manipulation**: Discipline related to warping spatial geometry and scaling as well as creating unusual spatial phenomena.
+- **Summoning**: Discipline related to summoning and banishing extraplanar beings such as demons, celestials, all kinds of spirits and even gods.
+- **Telekinesis & Levitation**: Discipline related to moving objects and controlling kinetic forces.
+- **Time Manipulation**: Discipline related to accelerating or decelerating time and warping its flow.
 
 ### Hero Dice
 
