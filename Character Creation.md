@@ -13,11 +13,11 @@ Each of your distinctions benefits from the Hinder SFX:
 
 ### Step 2: Assign Approaches
 
-Assign twelve steps between six Approaches, each one starting at d4. Quick pick: d12, d10, d8, d8, d6, d4, or d10, d10, d8, d8, d6, d6.
+Assign eleven steps between approaches, each one starting at d4. Quick pick: d10, d10, d8, d8, d6, d4, or d10, d8, d8, d8, d6, d6.
 
-### Step 3: Assign Moves
+### Step 3: Assign Values
 
-Assign ten steps between six Moves, each one starting at d4. Quick pick: d10, d8, d8, d8, d6, d4.
+Assign nine steps between values, each one starting at d4. No value may be greater than d10. Quick pick: d10, d8, d8, d6, d6, d4.
 
 ### Step 4: Assign Methods and Effects
 
@@ -53,15 +53,15 @@ Where did you come from? Was your family rich, poor? Aristocratic? Commoners? Wa
 
 #### Step 1:
 
-Players choose their Upbringing Distinction rated at d8. All six Approaches and Moves start at d4.
+Players choose their Upbringing distinction rated at d8. All six approaches and values start at d4.
 
 #### Step 2:
 
-Players get two Move steps.
+Players get one value step.
 
 #### Step 3:
 
-Players get two steps to step up or add a d6 Signature Asset or Specialty.
+Players get two steps to step up or add a d6 signature asset or specialty.
 
 #### Step 4:
 
@@ -73,11 +73,11 @@ What sort of childhood did you have? Were you an outsider among your peers, or a
 
 #### Step 1:
 
-Players get three Approach steps.
+Players get two approach steps.
 
 #### Step 2:
 
-Players get two Move steps.
+Players get two value steps.
 
 #### Step 3:
 
@@ -88,15 +88,15 @@ Players put an element related to your childhood and youth on the map, draw a la
 What sort of goals and values were instilled in you as you grew up? Was it money, a good life, or elevated status? How did you come to study magic at the Tower?
 
 #### Step 1:
-Players choose their Character Trait Distinction rated at d8.
+Players choose their Character Trait distinction rated at d8.
 
 #### Step 2:
 
-Players get three Approach steps.
+Players get three approach steps.
 
 #### Step 3:
 
-Players get two Move steps.
+Players get two value steps.
 
 #### Step 4:
 
@@ -108,11 +108,11 @@ What path did you walk as you emerged from your youth? How did you spend your ye
 
 #### Step 1:
 
-Players get three Approach steps.
+Players get three approach steps.
 
 #### Step 2:
 
-Players get two Move steps.
+Players get two value steps.
 
 #### Step 3:
 
@@ -137,15 +137,15 @@ Something changed your life forever. Was it the thrill of advancement, the sting
 
 #### Step 1:
 
-Players choose their High Concept Distinction rated at d6.
+Players choose their High Concept distinction rated at d6.
 
 #### Step 2:
 
-Players get three Approach steps.
+Players get three approach steps.
 
 #### Step 3:
 
-Players get two Move steps.
+Players get two value steps.
 
 #### Step 4:
 
@@ -158,4 +158,4 @@ Players put two elements related to your past on the map, draw a label and a con
 
 #### Step 6:
 
-Write two SFX for each Distinction, then two SFX on your Distinctions. Write down your Character Milestones and the Group Milestones given to you by the GM.
+Write two SFX for each distinction, then two SFX on your Distinctions. Write down your Character Milestones and the Group Milestones given to you by the GM.
