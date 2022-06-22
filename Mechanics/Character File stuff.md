@@ -1,5 +1,3 @@
-# Traits
-
 ## Approaches
 
 Approaches are a trait that describes how you accomplish a task. They don’t offer insight into characters skills or training, instead representing ways in which characters are more likely to approach a situation.  
@@ -136,18 +134,6 @@ Drained: This is the stress of mana depletion. Once this exceeds d12, you are dr
 - **Rattled**: This is the stress of fear, anxiety and insecurity. Once this exceeds d12, you are paralysed by fear and insecurity.
 - **Shattered**: This is the stress of spiritual damage. Once this exceeds d12, your Mantles are shut down and can’t function temporarily.
 - **Unsound**: This is the stress of confusion and madness. Once this exceeds d12, you are overcome with madness or confusion.
-
-## Complications
-
-A complication is an unhelpful temporary trait that the opposition includes in their dice pool to make the opposed roll harder for the character with the complication. Complications should be given descriptive names and a die rating, usually a d6 to start.
-
-### Using Complications
-
-Whenever a player or the GM is rolling against a character that has a relevant complication, they may add it to their dice pool. Doing so doesn’t cost anything, and there’s no limit to how many applicable complications can be included in a dice pool, nor is there a limit on how many complications a character can have.
-
-### Complications As Consequence
-
-Outside of hitches, complications can arise as a result of a lost contest or failed test. In either situation, the GM can decide that a player must step up an existing complication by one if the existing complication is equal to or larger than the die rating of the new complication.
 
 ## Dropping Signature Assets
 
