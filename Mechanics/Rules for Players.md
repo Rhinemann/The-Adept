@@ -134,5 +134,4 @@ Consent should form a part of the group’s conversation about social standards 
 
 Safety tools can help ensure that your table stays a safe, welcoming, and enjoyable space for you and your players. Introduce a safety tool before beginning your game. There are many tools to choose from, so work with your group to discover which tools you will all find most empowering to use. Safety tools can also be mixed and matched to best serve your group of friends.
 
-For more information on consent in games and safety tools to make games better, visit sites like
-_goldenlassogames.com/tools_ or try Beau Jágr Sheldon’s Script Change safety toolkit.
+For more information on consent in games and safety tools to make games better, visit sites like *[goldenlassogames.com/tools](https://goldenlassogames.com/tools)* or try Beau Jágr Sheldon’s Script Change safety toolkit.
