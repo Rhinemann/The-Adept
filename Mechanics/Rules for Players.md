@@ -124,7 +124,7 @@ Existing complications may be stepped down:
 - For each additional opportunity in a single roll
 - When an SFX instructs you to do so
 
-If a complication is stepped down to ④, it dissapeare instead.
+If a complication is stepped down to d4, it dissapeares instead.
 
 # CONSENT
 
