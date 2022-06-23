@@ -1,6 +1,6 @@
 # What do You Need to Play
 
-To play the Adept, one person acts as the Game Moderator. Everyone else is a player. You also need game dice (physical or virtual), a pencil and some paper or a blank character journal (or a tablet or other mobile device) to record your character traits and info, and a supply of game tokens such as poker chips or beads.
+To play the Adept, one person acts as the [Game Moderator Name]. Everyone else is a player. You also need game dice (physical or virtual), a pencil and some paper or a blank character journal (or a tablet or other mobile device) to record your character traits and info, and a supply of game tokens such as poker chips or beads.
 
 # Players
 
@@ -18,11 +18,11 @@ Additionally, each player is responsible for helping ensure that the gaming expe
 
 See [Consent](/Consent) for more.
 
-# Game Moderators
+# [Game Moderator Name]s
 
-Game Moderator presents scenes, locations, and Game Moderator characters (GMCs) in the form of an open-ended tale. As the Game Moderator, you give the players fun situations to respond to and use the rules to reveal how their characters interact with the world they’re in.
+[Game Moderator Name] presents scenes, locations, and [Game Moderator Name] characters (GMCs) in the form of an open-ended tale. As the [Game Moderator Name], you give the players fun situations to respond to and use the rules to reveal how their characters interact with the world they’re in.
 
-**As Game Moderator, you are responsible for:**
+**As [Game Moderator Name], you are responsible for:**
 - Preparing and presenting the tale to the players.
 - Acting out the parts of NCs and deciding how they react to the PCs.
 - Asking leading questions of the players to lead them into further adventure.
@@ -62,3 +62,39 @@ To step up a die by one, swap it for a die that’s one step bigger than the ori
 Die ratings can only have five possible steps, from d4 to d12. If you step a d12 in a dice pool up by one, it remains at d12, but you can step up another die in your dice pool by one step instead. If you step a d4 down by one, it’s removed from the dice pool.
 
 If you’re asked to step up a d12 that isn’t currently in a dice pool, it remains at d12, but you gain a d6 alongside it. Wherever that d12 goes, the d6 goes with it.
+
+# Hitches and Botches
+
+Any die that comes up with a result of 1 is called a hitch. Set hitches aside; they can’t be included in a total and they count as zeroes. The Game Modetator has the special ability to activate hitches; this is covered later in the Player’s Guide. When the Game Modetator rolls a hitch, it’s called an opportunity. The terms are different because some game effects apply only to hitches, and some only apply to opportunities.
+
+If all your dice come up as 1, that’s a botch and it’s a sign of trouble, as your total is effectively zero. Failing a dice roll isn’t that bad most of the time. The story moves forward, just not how your PC might like it to. With a botch, there’s no ambiguity - things are bad for your PC, and their story hits a brick wall for a moment.
+
+# Plot Points
+
+Plot points (PP) are a way for players to affect the tale beyond the roll of the dice or their own choices. Plot points can be spent to give yourself more dice for your dice pool, make the dice you have more powerful, or activate certain traits or trait special effects (SFX) on your character journal.
+
+You need a way to keep track of plot points. One way is to write them in your character journal as tally marks. Another option is to use poker chips or some other kind of token (pennies, paperclips, glass beads… you get the idea).
+
+Keep a pile of them in the middle of the table for everyone to draw from. Toss them back into the pile when they’re spent. When players earn PP from activating certain SFX, or when the [Game Moderator Name] activates player hitches, these PP come from an unlimited supply.
+
+The [Game Moderator Name] does not have PP, they utilise [Limited Doom Pool Name].
+
+# Stress
+
+When bad things happen to your PC or to the NCs they’re dealing with, such as injuries of some sort, we use a trait called stress to keep track of the consequences. Stress comes in five different types: Exhausted, Injured, Rattled, Shattered, Unsound.
+
+Characters don’t have a die rating in any stress types by default. Once they take stress from failing a roll, or by rolling hitches and having them activated by the [Game Moderator Name], a die rating of that stress becomes attached to the character, at a minimum of d6. The bigger the die rating, the more that stress is affecting the character’s chances of success.
+
+Stress isn’t included in your dice pool like other traits. Instead, it gets included in your opponent’s dice pool, effectively making things worse for your character. If stress is stepped up beyond d12 for any reason, the character becomes stressed out. A stressed out character can’t do anything until their stress is recovered or reduced.
+
+Stress that lasts longer or is much worse is called trauma. You gain trauma once you’re stressed out. Even if you recover your stress and get rid of it, trauma stays around and must be recovered using more time and more help.
+
+## Complications
+
+Complications are similar to stress in a lot of senses, but they are assumed to be used much less often. Unlike stress, complications represent outside circumstances, such as curses, darkness and such. Complications do not have preset names, or associated trauma.
+
+# Your Character Journal
+
+Your PC has a character journal that you use to keep track of vital statistics, personality traits, and important game notes. All your traits, including their die ratings, are recorded on your character journal together with other useful information. When you’re playing the game, the character journal helps you build your dice pool.
+
+You can use pencil and paper or print out a copy of a character journal to keep track of your info, or you can use the digital character sheets or tools [here](https://drive.google.com/drive/folders/1le-U6K2_PeeX_9kUzuZ2oll1-FtEsYOx?usp=sharing).
