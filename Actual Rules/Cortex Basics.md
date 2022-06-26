@@ -1,10 +1,14 @@
-# What do You Need to Play
+# Welcome to Cortex
 
-To play the Adept, one person acts as the [Game Moderator Name]. Everyone else is a player. You also need game dice (physical or virtual), a pencil and some paper or a blank character journal (or a tablet or other mobile device) to record your character traits and info, and a supply of game tokens such as poker chips or beads.
+What is Cortex anyway? In this chapter, we provide a brief overview of the game and introduce you to some of the terms you’ll encounter later on in this book.
 
-# Players
+## What do You Need to Play
 
-The Adept, as most other tabletop games, works best with two to six players, each one creating and playing their own player character. You record your player character’s statistics and information in a character journal. As a player, you imagine what your character would do; describe their actions, feelings, and experiences; and use the game rules to see if they succeed or fail.
+To play the Adept, one person acts as the [Game Moderator Name]. Everyone else is a player. You also need game dice (physical or virtual), a pencil and some paper or a blank [character journal name] (or a tablet or other mobile device) to record your character traits and info, and a supply of game tokens such as poker chips or beads.
+
+## Players
+
+The Adept, as most other tabletop games, works best with two to six players, each one creating and playing their own player character. You record your player character’s statistics and information in a [character journal name]. As a player, you imagine what your character would do; describe their actions, feelings, and experiences; and use the game rules to see if they succeed or fail.
 
 **Players are responsible for:**
 - Deciding what their PCs do.
@@ -18,7 +22,7 @@ Additionally, each player is responsible for helping ensure that the gaming expe
 
 See [Consent](/Consent) for more.
 
-# [Game Moderator Name]s
+## [Game Moderator Name]s
 
 [Game Moderator Name] presents scenes, locations, and [Game Moderator Name] characters (GMCs) in the form of an open-ended tale. As the [Game Moderator Name], you give the players fun situations to respond to and use the rules to reveal how their characters interact with the world they’re in.
 
@@ -30,7 +34,7 @@ See [Consent](/Consent) for more.
 - Watching over the game rules at the table and managing the pace of the session.
 - In general, bringing the world of Xadia to life in the minds of the players.
 
-# Dice
+## Dice
 
 We use five different kinds of dice in the Adept: d4, d6, d8, d10, and d12. The number tells you how many sides the die has; the more sides, the bigger the numbers. A handful of dice together is called a dice pool.
 
@@ -38,7 +42,7 @@ Any time you roll a die, the number you get on the die is called the result. Usu
 
 Dice are used to resolve tests, contests, crises and challenges. They let you know if your PC succeeds, fails, or turns the story in their favor.
 
-# Traits and Die Ratings
+## Traits and Die Ratings
 
 All characters in the Adept, whether they’re PCs or GMCs, are described using game traits. Traits cover a range of descriptive elements, grouped into trait sets. These include approaches, values, distinctions, disciplines, signature assets, and specialties.
 
@@ -53,7 +57,7 @@ Here's a quick list of traits you can expect in the Adept:
 |:-:|:-:|:-:|
 |**Flair Focus Force Guile Haste Wits**|**Devotion Glory Justice Liberty Mastery Truth**|**Upbringing High Concept Character Trait**|
 
-# Stepping Up and Stepping Down
+## Stepping Up and Stepping Down
 
 Sometimes you swap out one or more dice in your dice pool for dice with more or fewer sides. This is called stepping up or stepping down a die rating.
 
@@ -63,23 +67,23 @@ Die ratings can only have five possible steps, from d4 to d12. If you step a d12
 
 If you’re asked to step up a d12 that isn’t currently in a dice pool, it remains at d12, but you gain a d6 alongside it. Wherever that d12 goes, the d6 goes with it.
 
-# Hitches and Botches
+## Hitches and Botches
 
 Any die that comes up with a result of 1 is called a hitch. Set hitches aside; they can’t be included in a total and they count as zeroes. The Game Modetator has the special ability to activate hitches; this is covered later in the Player’s Guide. When the Game Modetator rolls a hitch, it’s called an opportunity. The terms are different because some game effects apply only to hitches, and some only apply to opportunities.
 
 If all your dice come up as 1, that’s a botch and it’s a sign of trouble, as your total is effectively zero. Failing a dice roll isn’t that bad most of the time. The story moves forward, just not how your PC might like it to. With a botch, there’s no ambiguity - things are bad for your PC, and their story hits a brick wall for a moment.
 
-# Plot Points
+## Plot Points
 
-Plot points (PP) are a way for players to affect the tale beyond the roll of the dice or their own choices. Plot points can be spent to give yourself more dice for your dice pool, make the dice you have more powerful, or activate certain traits or trait special effects (SFX) on your character journal.
+Plot points (PP) are a way for players to affect the tale beyond the roll of the dice or their own choices. Plot points can be spent to give yourself more dice for your dice pool, make the dice you have more powerful, or activate certain traits or trait special effects (SFX) on your [character journal name].
 
-You need a way to keep track of plot points. One way is to write them in your character journal as tally marks. Another option is to use poker chips or some other kind of token (pennies, paperclips, glass beads… you get the idea).
+You need a way to keep track of plot points. One way is to write them in your [character journal name] as tally marks. Another option is to use poker chips or some other kind of token (pennies, paperclips, glass beads… you get the idea).
 
 Keep a pile of them in the middle of the table for everyone to draw from. Toss them back into the pile when they’re spent. When players earn PP from activating certain SFX, or when the [Game Moderator Name] activates player hitches, these PP come from an unlimited supply.
 
 The [Game Moderator Name] does not have PP, they utilise [Limited Doom Pool Name].
 
-# Stress
+## Stress
 
 When bad things happen to your PC or to the NCs they’re dealing with, such as injuries of some sort, we use a trait called stress to keep track of the consequences. Stress comes in five different types: Exhausted, Injured, Rattled, Shattered, Unsound.
 
@@ -89,12 +93,12 @@ Stress isn’t included in your dice pool like other traits. Instead, it gets in
 
 Stress that lasts longer or is much worse is called trauma. You gain trauma once you’re stressed out. Even if you recover your stress and get rid of it, trauma stays around and must be recovered using more time and more help.
 
-## Complications
+### Complications
 
 Complications are similar to stress in a lot of senses, but they are assumed to be used much less often. Unlike stress, complications represent outside circumstances, such as curses, darkness and such. Complications do not have preset names, or associated trauma.
 
-# Your Character Journal
+## Your [Character Journal name]
 
-Your PC has a character journal that you use to keep track of vital statistics, personality traits, and important game notes. All your traits, including their die ratings, are recorded on your character journal together with other useful information. When you’re playing the game, the character journal helps you build your dice pool.
+Your PC has a [character journal name] that you use to keep track of vital statistics, personality traits, and important game notes. All your traits, including their die ratings, are recorded on your [character journal name] together with other useful information. When you’re playing the game, the [character journal name] helps you build your dice pool.
 
-You can use pencil and paper or print out a copy of a character journal to keep track of your info, or you can use the digital character sheets or tools [here](https://drive.google.com/drive/folders/1le-U6K2_PeeX_9kUzuZ2oll1-FtEsYOx?usp=sharing).
+You can use pencil and paper or print out a copy of a [character journal name] to keep track of your info, or you can use the digital character sheets or tools [here](https://drive.google.com/drive/folders/1le-U6K2_PeeX_9kUzuZ2oll1-FtEsYOx?usp=sharing).
