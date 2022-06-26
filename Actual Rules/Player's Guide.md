@@ -34,4 +34,44 @@ An action that draws attention to you beaming with style and panache uses **Flai
 
 - Use this when you are delivering speeches, or performing flashy magic.
 - A character with a low **Flair** is often quiet, or bleak.
-- A character with a high **Flair** is often loud, bright and flashy.
+- A character with a high **Flair** is often loud, bright, and flashy.
+
+### Focus
+
+A time-consuming action which takes close attention to details and precision uses **Focus**.
+
+- Use this if you are standing on guard brewing potions and casting finesse rituals.
+- A character with a low **Focus** is often inaccurate, negligent or distracted.
+- A character with a high **Focus** is often careful, precise, and attentive.
+
+### Force
+
+An action that displays brute and unrestricted strength uses **Force**.
+
+- Use this when you are wrestling, or blasting off with spells. 
+- A character with a low **Force** is often moderate, collected, and reserved
+- A character with a high **Force** is often energetic, strong, or volatile.
+
+### Guile
+
+A
+
+- Use this
+- A character with a low **Guile** is often
+- A character with a high **Guile** is often
+
+### Haste
+
+A
+
+- Use this
+- A character with a low **Haste** is often
+- A character with a high **Haste** is often
+
+### Wits
+
+A
+
+- Use this
+- A character with a low **Wits** is often
+- A character with a high **Wits** is often
