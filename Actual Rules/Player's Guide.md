@@ -30,7 +30,7 @@ Your approach’s die rating doesn’t necessarily mean you are deeply flawed if
 
 ### Flair
 
-An action that draws attention to you beaming with style and panache uses **Flair**.
+Actions that draw attention to you beaming with style and panache use **Flair**.
 
 - Use this when you are delivering speeches, or performing flashy magic.
 - A character with a low **Flair** is often quiet, or bleak.
@@ -38,7 +38,7 @@ An action that draws attention to you beaming with style and panache uses **Flai
 
 ### Focus
 
-A time-consuming action which takes close attention to details and precision uses **Focus**.
+Time-consuming actions, close attention to details, and precision use **Focus**.
 
 - Use this if you are standing on guard brewing potions and casting finesse rituals.
 - A character with a low **Focus** is often inaccurate, negligent or distracted.
@@ -46,7 +46,7 @@ A time-consuming action which takes close attention to details and precision use
 
 ### Force
 
-An action that displays brute and unrestricted strength uses **Force**.
+Displays of brute and unrestricted strength use **Force**.
 
 - Use this when you are wrestling, or blasting off with spells. 
 - A character with a low **Force** is often moderate, collected, and reserved.
@@ -54,7 +54,7 @@ An action that displays brute and unrestricted strength uses **Force**.
 
 ### Guile
 
-An activity related to misdirection, subterfuge, deception and stelth uses **Guile**.
+Misdirection, subterfuge, deception and stelth use **Guile**.
 
 - Use this to pickpocket, sneak around, or talk your way out.
 - A character with a low **Guile** is often innocent, overt, and straightforward. 
@@ -62,16 +62,16 @@ An activity related to misdirection, subterfuge, deception and stelth uses **Gui
 
 ### Haste
 
-A
+Alacrity, dexterous movement and swiftness use **Haste**.
 
-- Use this
-- A character with a low **Haste** is often
-- A character with a high **Haste** is often
+- Use this to dodge, act fast, and move at your top speeds.
+- A character with a low **Haste** is often slow, clumsy, or lagging.
+- A character with a high **Haste** is often fast, agile, and reactive.
 
 ### Wits
 
-A
+Quick thinking, complex problemsolving, and accounting for multiple shifting variables all at once use **Wits**.
 
-- Use this
-- A character with a low **Wits** is often
-- A character with a high **Wits** is often
+- Use this to outwitt all sorts of alien creatures, craft new spells, and conduct nuanced research.
+- A character with a low **Wits** is often simpleminded, irrational, or dull.
+- A character with a high **Wits** is often clever, learned, and sharp-witted.
