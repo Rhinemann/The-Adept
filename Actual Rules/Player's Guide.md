@@ -49,7 +49,7 @@ A time-consuming action which takes close attention to details and precision use
 An action that displays brute and unrestricted strength uses **Force**.
 
 - Use this when you are wrestling, or blasting off with spells. 
-- A character with a low **Force** is often moderate, collected, and reserved
+- A character with a low **Force** is often moderate, collected, and reserved.
 - A character with a high **Force** is often energetic, strong, or volatile.
 
 ### Guile
