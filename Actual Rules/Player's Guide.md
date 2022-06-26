@@ -54,11 +54,11 @@ An action that displays brute and unrestricted strength uses **Force**.
 
 ### Guile
 
-A
+An activity related to misdirection, subterfuge, deception and stelth uses **Guile**.
 
-- Use this
-- A character with a low **Guile** is often
-- A character with a high **Guile** is often
+- Use this to pickpocket, sneak around, or talk your way out.
+- A character with a low **Guile** is often innocent, overt, and straightforward. 
+- A character with a high **Guile** is often cunning, deceptive, and sneaky.
 
 ### Haste
 
