@@ -160,22 +160,12 @@ For non-sumerians it includes the land you are from.
 
 For ocasional demi-humans it includes more supernatural parts of your heritage.
 
-> #### Example upbringing distinctions
-> 
-> Half-elven Bastard of Nobility
-
 ### High Concept
 
 How do you see yourself? Your high concept distinction represents your vision of yourself, what is your profile knowledge, skills, and your specialty in magic.
 
-> #### Example high concept distinctions
-> 
-> Scholar, Seeker of Power and Knowledge
+Your high concept distinction should always have a descriptive adjective. This helps flavour your character and differentiate multiple characters with same idea behind their high concept. An **Aspiring Savant of Metamagic** is different from **Innovative Savant of Metamagic**!
 
 ### Oddity
 
 What is peculiar about you? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions.
-
-> #### Example oddity distinctions
-> 
-> Brilliant Mind, Dull Empathy
