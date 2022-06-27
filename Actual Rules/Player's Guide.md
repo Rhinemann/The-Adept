@@ -156,7 +156,7 @@ Distinctions always have the Hinder SFX by default (See Special Effects). Your d
 
 How were you brought up? Your upbringing distinction reflects where you grew up, what social class and culture you belonged to when you were raised.
 
-For non-sumerians it includes the land you are from.
+For non-sumerians it can include the land you are from.
 
 For ocasional demi-humans it includes more supernatural parts of your heritage.
 
@@ -171,3 +171,10 @@ Your high concept distinction should always have a descriptive adjective. This h
 What is peculiar about you, or what gets you in trouble sometimes? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions. Alternatively it can represent your troubles, such as debt, insecurities, or detrimental supernatural circumtances.
 
 Quirks are often written as sayings or turns of phrase, but they can be descriptors or qualities, too.
+
+## Magic
+
+## Assets
+
+## Specialties
+
