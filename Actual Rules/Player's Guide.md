@@ -148,7 +148,7 @@ Distinctions each belong to one of three broad groups:
 
 - Your character’s upbringing and background
 - Your character’s training, calling, and specialisation
-- Your character’s most memorable or peculiar quirk or character trait
+- Your character’s most memorable or peculiar quirk, character trait, or trouble
 
 Distinctions always have the Hinder SFX by default (See Special Effects). Your distinctions should be worded so that they have a potential downside or means of getting in your way, as well as helping you out. A good distinction covers both!
 
@@ -168,4 +168,6 @@ Your high concept distinction should always have a descriptive adjective. This h
 
 ### Oddity
 
-What is peculiar about you? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions.
+What is peculiar about you, or what gets you in trouble sometimes? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions. Alternatively it can represent your troubles, such as debt, insecurities, or detrimental supernatural circumtances.
+
+Quirks are often written as sayings or turns of phrase, but they can be descriptors or qualities, too.
