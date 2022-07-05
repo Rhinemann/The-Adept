@@ -54,7 +54,7 @@ Displays of brute and unrestricted strength use **Force**.
 
 ### Guile
 
-Misdirection, subterfuge, deception and stelth use **Guile**.
+Misdirection, subterfuge, deception and stealth use **Guile**.
 
 - Use this to pickpocket, sneak around, or talk your way out.
 - A character with a low **Guile** is often innocent, overt, and straightforward. 
@@ -72,7 +72,7 @@ Alacrity, dexterous movement and swiftness use **Haste**.
 
 Quick thinking, complex problemsolving, and accounting for multiple shifting variables all at once use **Wits**.
 
-- Use this to outwitt all sorts of alien creatures, craft new spells, and conduct nuanced research.
+- Use this to outwit all sorts of alien creatures, craft new spells, and conduct nuanced research.
 - A character with a low **Wits** is often simpleminded, irrational, or dull.
 - A character with a high **Wits** is often clever, learned, and sharp-witted.
 
@@ -88,15 +88,15 @@ Values always have fifteen die steps in total, with a d4 counting as one step; i
 
 Use the following as a guideline for determining how much each of these values matters to your PC. Remember: value die ratings change a lot during play, so don’t worry if at first it seems like you don’t care much about one of these values.
 
-> d4 Indifferent “This hardly matters to me.”
+> **d4 Indifferent**. “This hardly matters to me.”
 > 
-> d6 Neutral “This matters, but so do many things.”
+> **d6 Neutral**. “This matters, but so do many things.”
 > 
-> d8 Inspired “This is important to me.”
+> **d8 Inspired**. “This is important to me.”
 > 
-> d10 Invested “This is a major part of my life.”
+> **d10 Invested**. “This is a major part of my life.”
 > 
-> d12 Obsessed “This is my heart and soul.”
+> **d12 Obsessed**. “This is my heart and soul.”
 
 ### Devotion
 
@@ -158,7 +158,7 @@ How were you brought up? Your upbringing distinction reflects where you grew up,
 
 For non-sumerians it can include the land you are from.
 
-For ocasional demi-humans it includes more supernatural parts of your heritage.
+For occasional demi-humans it includes more supernatural parts of your heritage.
 
 ### High Concept
 
@@ -168,11 +168,69 @@ Your high concept distinction should always have a descriptive adjective. This h
 
 ### Oddity
 
-What is peculiar about you, or what gets you in trouble sometimes? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions. Alternatively it can represent your troubles, such as debt, insecurities, or detrimental supernatural circumtances.
+What is peculiar about you, or what gets you in trouble sometimes? Your oddity distinction, more than any other description, best summarises who your PC is in regard to everyone else, especially characters with the same, or similar upbringing and high concept distinctions. Alternatively it can represent your troubles, such as debt, insecurities, or detrimental supernatural circumstances.
 
 Quirks are often written as sayings or turns of phrase, but they can be descriptors or qualities, too.
 
 ## Magic
+
+So, you are a magus, which means that you posses exceptional power over reality and equally wast knowledge of its workings. But how do you employ your powers? What magics have you studied? All of your magical skills are represented by five practices (**Enchantment**, **Magical Craftsmanship**, **Ritual Magic**, **Spellcasting**, **Will Magic**) and seventeen disciplines (**Animation**, **Chaos Manipulation**, **Elemental Magic**, **Extraordinary Senses**, **Flesh Manipulation**, **Hyperinteractions**, **Illusion**, **Materialisation**, **Matter Transformation**, **Mental Manipulation**, **Metamagic**, **Portals & Teleportation**, **Soul Manipulation**, **Space Manipulation**, **Summoning**, **Telekinesis & Levitation**, **Time Manipulation**).
+
+Every time you want to use magic when rolling, you should add both ratings from a Practice and a Discipline related to the magical effect you are trying to accomplish.
+
+### Practices
+
+What do you do to use your arcane power? The Art is encompassing and multifaceted, and even though in its core it is built on the same principles, over time people across the world invented countless magical systems to approach arcane sciences in different ways. The set of practices presented here is based on the one used by scholastic wizards of Sumer, as one of the more optimized and convenient. A character's experience and skill in a specific practice is rated from untrained, approximate familiarity at d4, to extreme skills and training at d12.
+
+> **d4 Untrained**. You have no idea what you’re doing, and you’re likely to create trouble when you try it, but who knows.
+> 
+> **d6 Competent**. Sufficient training to get by. You’re comfortable doing this.
+> 
+> **d8 Expert**. Able to do this reliably. This is second nature to you.
+> 
+> **d10 Master**. One of the best in the field. Likely known to others who possess the skill.
+> 
+> **d12 Grandmaster**. One of the best in the world. Known even to those outside the field.
+
+<!-- #### Enchantment
+
+Different, usually lengthy, processes imbuing items and living beings with magical properties belong to **Enchantment**. Examples of **Enchantment** use include:
+
+- Creating a flaming sword, that scorches those it cuts.
+- Stitching functioning wings onto a monkey.
+- Granting someone telepathic abilities with a new spiritual organ.
+
+#### Magical Craftsmanship
+
+Potions, 
+
+Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemical grenades to plant parts with magical properties. Creating each consumable can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and talent. -->
+
+#### Ritual Magic
+
+Encoding an algorithm of magical effects into multiple mediums in the form of an elaborate instruction to create this effect correspond to **Ritual**. Examples of **Ritual** use include:
+
+- Chanting in a ritual circle to change the weather around.
+- Performing a dance with symbolic items to commune with spirits.
+- Reciting a spell and signing to animate a velet.
+
+#### Spellcasting
+
+Encoding an algorithm of magical effects into a single medium, such as spoken words, gestures, inscribed symbols and so on to perform magic correspond to **Spellcasting**. Examples of **Spellcasting** use include:
+
+- Drawing a sigil on the floor to protect the area inside the sigil from physical projectiles.
+- Reciting a paragraph to hurl lightning at the opponent.
+- Signing a string of gestures to open a portal.
+
+#### Psionics
+
+Channeling mana through pure willpower to achieve a certain magical effect correspond to **Psionics**. Examples of **Psionics** use include:
+
+- Application of telekinesis through pure force of mind.
+- Pulling beings from other dimensions without any tools, or preparations.
+- Jumping to get into the Mirror Realm.
+
+### Disciplines
 
 ## Assets
 

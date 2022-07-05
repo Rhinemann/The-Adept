@@ -18,9 +18,7 @@ The Adept, as most other tabletop games, works best with two to six players, eac
 - Deciding how their PCs change and grow over time.
 - In general, telling the story of their PCs.
 
-Additionally, each player is responsible for helping ensure that the gaming experience is enjoyable for everyone. Consent should always be part of a group’s conversation about social standards at the table. 
-
-See [Consent](/Consent) for more.
+Additionally, each player is responsible for helping ensure that the gaming experience is enjoyable for everyone. Consent should always be part of a group’s conversation about social standards at the table.
 
 ## [Game Moderator Name]s
 
@@ -48,9 +46,9 @@ All characters in the Adept, whether they’re PCs or GMCs, are described using 
 
 Every trait in the game is rated with a die, called a die rating. Whenever you use a trait, you pick up a die of that many sides for your dice pool. In this way, your dice pool is made up of all of the traits that might affect how successful your PC is in doing what you want them to do.
 
-The die rating tells you how much of an effect that trait has on the outcome of any given roll. They’re a useful shorthand for how powerfull, focused, serious, or skilled your character is.
+The die rating tells you how much of an effect that trait has on the outcome of any given roll. They’re a useful shorthand for how powerful, focused, serious, or skilled your character is.
 
-More sides don’t always mean better, so much as they mean more important or significant in the story. Having a d12 in a trait like Focus vs a d12 in a trait like Justice doesn’t mean that focus and attentiveness or valuing justice measure the same things. It just means that being extremely carefull can affect the outcome just as much as being obsessed with justice can.
+More sides don’t always mean better, so much as they mean more important or significant in the story. Having a d12 in a trait like Focus vs a d12 in a trait like Justice doesn’t mean that focus and attentiveness or valuing justice measure the same things. It just means that being extremely careful can affect the outcome just as much as being obsessed with justice can.
 
 Here's a quick list of traits you can expect in the Adept:
 |Approaches|Values|Distinctions|
@@ -69,7 +67,7 @@ If you’re asked to step up a d12 that isn’t currently in a dice pool, it rem
 
 ## Hitches and Botches
 
-Any die that comes up with a result of 1 is called a hitch. Set hitches aside; they can’t be included in a total and they count as zeroes. The Game Modetator has the special ability to activate hitches; this is covered later in the Player’s Guide. When the Game Modetator rolls a hitch, it’s called an opportunity. The terms are different because some game effects apply only to hitches, and some only apply to opportunities.
+Any die that comes up with a result of 1 is called a hitch. Set hitches aside; they can’t be included in a total and they count as zeroes. The Game Moderator has the special ability to activate hitches; this is covered later in the Player’s Guide. When the Game Moderator rolls a hitch, it’s called an opportunity. The terms are different because some game effects apply only to hitches, and some only apply to opportunities.
 
 If all your dice come up as 1, that’s a botch and it’s a sign of trouble, as your total is effectively zero. Failing a dice roll isn’t that bad most of the time. The story moves forward, just not how your PC might like it to. With a botch, there’s no ambiguity - things are bad for your PC, and their story hits a brick wall for a moment.
 
