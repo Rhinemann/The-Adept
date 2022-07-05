@@ -206,7 +206,23 @@ Potions,
 
 Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemical grenades to plant parts with magical properties. Creating each consumable can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and talent. -->
 
-#### Ritual Magic
+#### Imbuing
+
+Creating, or infusing objects and living beings with magical properties, that can be often utilized by non-magi, correspond to **Imbuing**. Examples of **Imbuing** use include:
+
+- Stitching functioning wings onto a monkey.
+- Brewing a potion that replenishes mana.
+- Crafting a mirror, that can be used for scrying.
+
+#### Psionics
+
+Channeling mana through pure willpower to achieve a certain magical effect correspond to **Psionics**. Examples of **Psionics** use include:
+
+- Application of telekinesis through pure force of mind.
+- Pulling beings from other dimensions without any tools, or preparations.
+- Jumping to get into the Mirror Realm.
+
+#### Ritual
 
 Encoding an algorithm of magical effects into multiple mediums in the form of an elaborate instruction to create this effect correspond to **Ritual**. Examples of **Ritual** use include:
 
@@ -221,14 +237,6 @@ Encoding an algorithm of magical effects into a single medium, such as spoken wo
 - Drawing a sigil on the floor to protect the area inside the sigil from physical projectiles.
 - Reciting a paragraph to hurl lightning at the opponent.
 - Signing a string of gestures to open a portal.
-
-#### Psionics
-
-Channeling mana through pure willpower to achieve a certain magical effect correspond to **Psionics**. Examples of **Psionics** use include:
-
-- Application of telekinesis through pure force of mind.
-- Pulling beings from other dimensions without any tools, or preparations.
-- Jumping to get into the Mirror Realm.
 
 ### Disciplines
 
