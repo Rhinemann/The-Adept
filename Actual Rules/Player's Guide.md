@@ -176,7 +176,7 @@ Quirks are often written as sayings or turns of phrase, but they can be descript
 
 So, you are a magus, which means that you posses exceptional power over reality and equally wast knowledge of its workings. But how do you employ your powers? What magics have you studied? All of your magical skills are represented by five practices (**Enchantment**, **Magical Craftsmanship**, **Ritual Magic**, **Spellcasting**, **Will Magic**) and seventeen disciplines (**Animation**, **Chaos Manipulation**, **Elemental Magic**, **Extraordinary Senses**, **Flesh Manipulation**, **Hyperinteractions**, **Illusion**, **Materialisation**, **Matter Transformation**, **Mental Manipulation**, **Metamagic**, **Portals & Teleportation**, **Soul Manipulation**, **Space Manipulation**, **Summoning**, **Telekinesis & Levitation**, **Time Manipulation**).
 
-Every time you want to use magic when rolling, you should add both ratings from a Practice and a Discipline related to the magical effect you are trying to accomplish.
+Every time you want to use magic when rolling, you should add both ratings from a Practice and a the magical effect you are trying to accomplish.
 
 ### Practices
 
@@ -240,9 +240,91 @@ Character's prowess and understanding of a specific discipline can be rated from
 > 
 > **d8 Master**. You are an accomplished practitioner of this discipline, and that's where a lot of average magi peak. The effects you produce are quite impressive, both in scale, complexity, and duration.
 > 
-> **d10 Magister**.
+> **d10 Magister**. You are a profound and studied mage, that has gathered keen insight into this discipline. Your magics are powerful, complex, lasting, and could span great distances and areas.
 > 
-> **d12 Archmage**.
+> **d12 Archmage**. You are an absolute peak of magics available to humans and similar mortals, the next step for you would be only immortality and supreme magedom. Your magic is incredibly powerful, and complex, and could span continents, and affect incredible amount of targets.
+
+#### Animation
+
+Animation of inert matter such as corpses, volumes of homogeneous matter or manufactured statues and mechanisms.
+
+#### Chaos Manipulation
+
+Influence of probabilities, bestowal of good, or bad luck.
+
+#### Elementalism
+
+Creation and manipulation of a given element.
+
+It is not a single discipline, but a grouping of multiple for ease of codification, so you must specify one element when studying it, this discipline can be learned multiple times choosing a different element each time.
+
+Examples of Elementalism:
+
+- **Aeromancy**: Control and creation of air and any gaseous substances.
+- **Hydromancy**: Control and creation of water and other liquids.
+- **Pyromancy**: Control and creation of fire and heat.
+- **Geomancy**: Control and creation of dirt and stones.
+- **Electromancy**: Control and creation of electricity and lightning.
+- **Ferromancy**: Control and creation of metals.
+- **Cryomancy**: Control and creation of ice and cold.
+- **Gravitomancy**: Control and creation of gravitational fields and interactions.
+- **Phosphoromancy**: Control and creation of light.
+
+#### Extraordinary Senses
+
+Enhancement of existing senses and creation of new ones.
+
+#### Flesh Manipulation
+
+Transformation and mending of physical bodies.
+
+#### Hyperinteractions
+
+Journeys through the Seven Spheres and interactions with them.
+
+#### Illusion
+
+Deception of senses, magical disguises, and phantasms.
+
+#### Materialisation
+
+Transformation of aether into matter, which essentially means creating matter from nothing.
+
+#### Matter Transformation
+
+Transformation of inanimate matter both in shape and composition.
+
+#### Mental Manipulation
+
+Manipulation of minds, emotions, and instincts, programing of mental constructs.
+
+#### Metamagic
+
+Absorption and reformation of all sorts of aetheric forces not bound to matter, examples of Metamagic include antimagic, aetheric vampirism, and tampering with spells already cast.
+
+#### Portals & Teleportation
+
+Creation of portals, or teleportation between different points in space, either in one reality, or between different ones.
+
+#### Soul Manipulation
+
+Manipulation of spiritual construct's composition and functions.
+
+#### Space Manipulation
+
+Warping of spatial geometry and scaling, and creation of unusual spatial phenomena.
+
+#### Summoning
+
+Summoning and banishing of extraplanar beings, such as demons, celestials, all kinds of spirits and even deities.
+
+#### Telekinesis & Levitation
+
+Movement of objects without physical interaction, and control of kinetic forces.
+
+#### Time Manipulation
+
+Acceleration or deceleration of time, and warping of its flow.
 
 ## Assets
 
