@@ -180,7 +180,9 @@ Every time you want to use magic when rolling, you should add both ratings from 
 
 ### Practices
 
-What do you do to use your arcane power? The Art is encompassing and multifaceted, and even though in its core it is built on the same principles, over time people across the world invented countless magical systems to approach arcane sciences in different ways. The set of practices presented here is based on the one used by scholastic wizards of Sumer, as one of the more optimized and convenient. A character's experience and skill in a specific practice is rated from untrained, approximate familiarity at d4, to extreme skills and training at d12.
+What do you do to use your arcane power? The Art is encompassing and multifaceted, and even though in its core it is built on the same principles, over time people across the world invented countless magical systems to approach arcane sciences in different ways. The set of practices presented here is based on the one used by scholastic wizards of Sumer, as one of the more optimized and convenient.
+
+A character's experience and skill in a specific practice is rated from untrained, approximate familiarity at d4, to extreme skills and training at d12.
 
 > **d4 Untrained**. You have no idea what you’re doing, and you’re likely to create trouble when you try it, but who knows.
 > 
@@ -191,20 +193,6 @@ What do you do to use your arcane power? The Art is encompassing and multifacete
 > **d10 Master**. One of the best in the field. Likely known to others who possess the skill.
 > 
 > **d12 Grandmaster**. One of the best in the world. Known even to those outside the field.
-
-<!-- #### Enchantment
-
-Different, usually lengthy, processes imbuing items and living beings with magical properties belong to **Enchantment**. Examples of **Enchantment** use include:
-
-- Creating a flaming sword, that scorches those it cuts.
-- Stitching functioning wings onto a monkey.
-- Granting someone telepathic abilities with a new spiritual organ.
-
-#### Magical Craftsmanship
-
-Potions, 
-
-Magical Craftsmanship is based on creation and usage of different magical consumables. These consumables can range from magical potions and alchemical grenades to plant parts with magical properties. Creating each consumable can be a lengthy process that can only be done in a specially prepared environment, but consumables can be more easily mass-produced and then used by anybody, even a person without any magical training and talent. -->
 
 #### Imbuing
 
@@ -239,6 +227,22 @@ Encoding an algorithm of magical effects into a single medium, such as spoken wo
 - Signing a string of gestures to open a portal.
 
 ### Disciplines
+
+What can you influence with magic, which parts and intricacies of reality have you learned to control? Aspects of reality you can influence with your magic are determined by your disciplines. Even though reality consists of only three elements (Aether, Energy, Matter) in actuality, arcane studies from all around the world are dividing reality into different aspects and elements for magical purposes. As is with practices, the following list is based on Sumerian school of magic as well.
+
+Character's prowess and understanding of a specific discipline can be rated from none at all, human understanding and no influence, with no rating in it, to tremendous power and intricate knowledge at d12. With the following guideline based on Sumerian ranks provided.
+
+> **None**. You can affect this element no way more than any ordinary human.
+> 
+> **d4 Student**. You are still studying this discipline and are more likely to cause troubles then get a fully desired outcome. At this level your power is small in scale and insignificant usually affecting one target, or a small area, and not lasting very long.
+> 
+> **d6 Apprentice**. You have recently finished your studies of this magic, and while your power is still minor, you are already adept enough to use it without causing too much trouble. Your magics are still minor, but can affect more targets, produce more finesse effects, and last longer.
+> 
+> **d8 Master**. You are an accomplished practitioner of this discipline, and that's where a lot of average magi peak. The effects you produce are quite impressive, both in scale, complexity, and duration.
+> 
+> **d10 Magister**.
+> 
+> **d12 Archmage**.
 
 ## Assets
 
